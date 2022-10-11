@@ -1,15 +1,32 @@
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: aquamarine;
-  }
-  li a {
-    display: block;
-    width: 60px; 
-  }
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(220, 223, 250);
+}
+
+.active {
+  background-color: #4750ca;
+}
 
   body {
 
-    background-color: blanchedalmond;
+    background-color: rgba(255, 223, 205, 0.158);
   }
