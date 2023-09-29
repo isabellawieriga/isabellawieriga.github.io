@@ -4,7 +4,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: lightblue (128, 171, 198, 0.879);
+  background-color: #69a2e4 (128, 171, 198, 0.879);
 }
 
 li {
@@ -28,7 +28,7 @@ h5  { padding: 0 }
 p{ padding: 0 } 
 
 .active {
-  background-color: #5771c6;
+  background-color: #e64cbc;
 }
 
   body {
@@ -37,7 +37,7 @@ p{ padding: 0 }
   }
 
   .dropbtn {
-    background-color: #5771c6(74, 149, 196)
+    background-color: #69a2e4(74, 149, 196)
    ;
     color: white;
     padding: 16px;
