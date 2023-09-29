@@ -76,6 +76,7 @@ p{ padding: 0 }
     .topnav a.icon {
       float: right;
       display: block;
+      background-color: #f16161;
     }
   }
   
