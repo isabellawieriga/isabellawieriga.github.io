@@ -48,7 +48,7 @@ p{ padding: 0 }
   
   .dropdown {
     position: relative;
-    display: block;
+    display: inline-block;
   }
   
   .dropdown-content {
