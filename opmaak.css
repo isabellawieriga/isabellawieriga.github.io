@@ -49,7 +49,7 @@ p{ padding: 0 }
   .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #000000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -63,7 +63,7 @@ p{ padding: 0 }
   
   .topnav a.active {
     background-color: #496de6;
-    color: white;
+    color: rgb(0, 0, 0);
   }
   
   .topnav .icon {
