@@ -37,7 +37,7 @@ p{ padding: 0 }
   }
 
   .dropbtn {
-    background-color: #432
+    background-color: rgb(72, 137, 177)
    ;
     color: white;
     padding: 16px;
@@ -73,6 +73,6 @@ p{ padding: 0 }
     display: block;
   }
   
-  .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+   .dropdown:hover .dropbtn {
+    background-color: #e64cbc;
   }
