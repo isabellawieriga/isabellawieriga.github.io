@@ -1,4 +1,4 @@
-ul {
+ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -19,7 +19,7 @@ ul {
   }
   
   li a:hover:not(.active) {
-    background-color: rgb(127, 137, 228);
+    background-color: rgb(32, 51, 224);
   }
   
   h5 {
