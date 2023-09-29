@@ -20,7 +20,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: rgb(220, 223, 250);
+  background-color: rgb(160, 167, 233);
 }
 
 h5  { padding: 0 } 
