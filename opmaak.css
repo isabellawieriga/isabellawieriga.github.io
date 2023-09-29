@@ -58,7 +58,7 @@ p{ padding: 0 }
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(236, 74, 74, 0.658);
     z-index: 1;
-    top:100%; 
+     
   }
   
   .dropdown-content a {
