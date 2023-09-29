@@ -20,7 +20,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: rgb(160, 167, 233);
+  background-color: rgb(127, 137, 228);
 }
 
 h5  { padding: 0 } 
@@ -37,7 +37,7 @@ p{ padding: 0 }
   }
 
   .dropbtn {
-    background-color: #69a2e4(74, 149, 196)
+    background-color: #388ff1(74, 149, 196)
    ;
     color: white;
     padding: 16px;
