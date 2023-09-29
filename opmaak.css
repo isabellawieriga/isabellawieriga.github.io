@@ -4,7 +4,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgba(128, 171, 198, 0.879);
+  background-color: lightblue (128, 171, 198, 0.879);
 }
 
 li {
@@ -37,8 +37,7 @@ p{ padding: 0 }
   }
 
   .dropbtn {
-    background-color: rgb(147, 186, 223);
-    color: white;
+    background-color: lightblue
     padding: 16px;
     font-size: 16px;
     border: none;
